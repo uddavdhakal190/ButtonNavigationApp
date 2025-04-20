@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ButtonNavigationApp</string>
+    <string name="cars">Cars</string>
+    <string name="motorbikes">Motorbikes</string>
+    <string name="your_choice_will_appear_here">Your choice will appear here</string>
+</resources>
